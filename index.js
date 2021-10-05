@@ -50,8 +50,13 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    console.log(fileName, data)
-    generateMarkdown(data)
+    // console.log(fileName, data)
+    // generateMarkdown(data);
+    
+
+    fs.writeFile(fileName, generateMarkdown(data), (err) => 
+        err ? console.log(err) : console.log("success!")
+    )
 }
 
 // TODO: Create a function to initialize app
@@ -59,7 +64,12 @@ function init() {
     inquirer
         .prompt(questions)
         .then((data) => {
+            // let generate = generateMarkdown(data)
+            // console.log(generate)
+            // fs.writeFile(generateMarkdown(data))
+            console.log(data);
             writeToFile("readme.md", data)
+
         })
 }
 
