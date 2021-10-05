@@ -4,7 +4,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br />
    
   ## Description
-   This project was created to quickly generate quality readmes through node.
+   This project was created to present the user with a series of questions to quickly generate a readme base on the given responese. 
    
    ## Table of Contents
    - [Description](#description)
@@ -16,10 +16,10 @@
    - [Questions](#questions)
    
    ## Installation
-   open terminal and type npm install
+   Open command line and type the command "npm install"
    
    ## Usage
-   This application is used to created readmes from the terminal
+   This application is used to create readme.md files. 
    
    ## License
    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -32,7 +32,7 @@
    ## Tests
    I ran the application through each possible license choice to make sure that each badge and link displayed correctly on the generated readme.
     
-   ##Demonstration
+   ## Demonstration
    https://user-images.githubusercontent.com/87740245/136091927-051e5945-0bc1-4226-adfb-63b9e5793ed9.mp4
 
 
