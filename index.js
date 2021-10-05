@@ -19,7 +19,7 @@ const questions = [
     }, {
         type: "input",
         name:"installation",
-        message: "What are the installation instructions? ('n' for none)"
+        message: "What are the installation instructions?"
     }, {
         type: "input",
         name: "usage",

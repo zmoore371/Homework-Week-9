@@ -1,10 +1,10 @@
 
   <h1 align="center">Readme Generator</h1>
   
-  ![badge](https://img.shields.io/badge/license-none-brightgreen)<br />
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br />
    
   ## Description
-   This program takes user inputs and creates a readme.md file
+   This is a simple node application that takes user input through the console and generates a readme to acompany the project.
    
    ## Table of Contents
    - [Description](#description)
@@ -16,25 +16,25 @@
    - [Questions](#questions)
    
    ## Installation
-   npm init, npm i
+   npm init npm i
    
    ## Usage
-   This application generates readmes
+   To quickly generate readmes
    
    ## License
-   ![badge](https://img.shields.io/badge/license-none-brightgreen)
+   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
    <br />
-   This application is covered by the none license. 
+   This application is covered by  the MIT license. 
    
    ## Contributors
-   n
+   There were not other contributors 
    
    ## Tests
-   Just ran it a bunch of times with different inputs
+   ran through each license input option to make sure the license image was displaying correctly in both locations on the readme
  
    ## Questions
    Questions or concerns? Feel free to reach out to me:<br />
    <br />
-   Link to Github: [undefined](https://github.com/undefined)<br />
+   Link to Github: [Zmoore371](https://github.com/Zmoore371)<br />
    <br />
    Email me with any questions: zmoore371@gmail.com<br /><br />
